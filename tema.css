@@ -113,7 +113,7 @@
 width: 36%;
 margin-left: 829px;
 margin-top: -167px;
-rotate: 269deg;
+transform: rotate(296deg);
 position: absolute;
   }
 
@@ -134,13 +134,13 @@ position: absolute;
 width: 35%;
 margin-top: 150px;
 margin-left: 200px;
-rotate: 290;
+transform: rotate(290deg);
 position: absolute;
   }
 
 .illustration4{
     width: 60%;
-    rotate: 290deg;
+    transform: rotate(290deg);
     margin-top: -154px;
     margin-left: 234px;
   }
@@ -149,14 +149,14 @@ position: absolute;
     width: 85%;
     margin-top: 160px;
     padding-left: 110px;
-    rotate: 360deg;
+    transform: rotate(360deg);
   }
 
   .illustration6{
     width: 36%;
 margin-left: 120px;
 margin-top: -145px;
-rotate: 269deg;
+transform: rotate(296deg);
 position: absolute;
   }
 
@@ -169,7 +169,7 @@ position: absolute;
 
 .illustration8{
   width: 75%;
-  rotate: 296deg;
+  transform: rotate(269deg);
   margin-top: -103px;
   margin-left: 206px;
 }
@@ -179,9 +179,9 @@ position: absolute;
   width: 44%;
   margin-top: 2px;
   margin-left: -156px;
-  rotate: 290;
+  transform: rotate(290deg);
   position: absolute;
-  rotate: 180deg;
+  transform: rotate(180deg);
 }
 
   
@@ -418,69 +418,70 @@ font-size: 1rem;
     width: 33%;
 margin-left: 206px;
 margin-top: -7px;
-rotate: 291deg;
+transform: rotate(291deg);
       }
     
       .illustration1{
         width: 33%;
         margin-left: 206px;
         margin-top: -7px;
-        rotate: 291deg;}
+        transform: rotate(291deg);
+      }
     
       .illustration2{
         width: 33%;
 margin-left: 206px;
 margin-top: -7px;
-rotate: 291deg;
+transform: rotate(291deg);
       }
     
       .illustration3{
         width: 33%;
         margin-left: 206px;
         margin-top: -7px;
-        rotate: 291deg;
+        transform: rotate(291deg);
       }
     
     .illustration4{
         width: 33%;
         margin-left: 206px;
         margin-top: -7px;
-        rotate: 291deg;
+        transform: rotate(291deg);
       }
     
       .illustration5{
         width: 33%;
         margin-left: 206px;
         margin-top: -7px;
-        rotate: 291deg;
+        transform: rotate(291deg);
       }
     
       .illustration6{
         width: 33%;
         margin-left: 206px;
         margin-top: -7px;
-        rotate: 291deg;
+        transform: rotate(291deg);
       }
     
     .illustration7{
         width: 33%;
         margin-left: 206px;
         margin-top: -7px;
-        rotate: 291deg;
+        transform:rotate(291deg) ;
     }
 
     .illustration8{
       width: 33%;
       margin-left: 206px;
       margin-top: -7px;
-      rotate: 291deg;
+      transform: rotate(291deg);
   }
 
   .illustration9{
     width: 33%;
     margin-left: 206px;
     margin-top: -7px;
-    rotate: 291deg;
+    transform: rotate(291deg);
 }
 
 
