@@ -131,11 +131,11 @@ position: absolute;
   }
 
   .illustration3{
-width: 35%;
-margin-top: 150px;
-margin-left: 200px;
-transform: rotate(290deg);
-position: absolute;
+    width: 35%;
+    margin-top: 29px;
+    margin-left: -89px;
+    transform: rotate(190deg);
+    position: absolute;
   }
 
 .illustration4{
@@ -171,7 +171,7 @@ position: absolute;
   width: 75%;
   transform: rotate(269deg);
   margin-top: -103px;
-  margin-left: 206px;
+  margin-left: 126px;
 }
 
 
